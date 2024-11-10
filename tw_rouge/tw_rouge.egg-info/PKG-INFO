@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: tw_rouge
+Version: 0.1.0
+Summary: rouge metric for traditional chinese
+Author: Jonathan Chang
+License: MIT
+License-File: LICENSE
+Requires-Dist: ckiptagger[gdown,tf]
+Requires-Dist: rouge
